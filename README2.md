@@ -1,3 +1,3 @@
 Xup bro...
 continuing
-rama/amar
+rama/ama.md
